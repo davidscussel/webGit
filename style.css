@@ -1,0 +1,9 @@
+#menuPrincipal{
+    align-items: center;
+    align-content: center;
+}
+
+.itensMenu{
+    display: inline-block;
+    color: red;
+}
